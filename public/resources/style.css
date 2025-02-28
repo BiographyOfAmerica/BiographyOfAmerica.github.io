@@ -1,0 +1,28 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+@font-face {
+    font-family: 'BoAFont';
+    src: url('BoA-Font.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1.BoA {
+    font-family: 'BoAFont';
+}
+
+h1.credits {
+    font-size: small;
+}
+
+.heading {
+    margin-top: 5%;
+    margin-left: 7.5%;
+}
+
+.intro-photo {
+    text-align: center;
+}
